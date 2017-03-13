@@ -8,7 +8,7 @@
 
 class homework {
 
-    public $text = "This is fourth.php - git-homework.";
+    public $text = "This is fourth.php - git-homework. - last commit after merges";
 
     public function homeworkText() {
         return $this->text;
