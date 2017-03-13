@@ -10,11 +10,11 @@ class homework {
 
     public $text = "This is first.php - git-homework. - edited";
 
-    public function homeworkText() {
+    public function homeworkTextEdited() {
         return $this->text;
     }
 }
 
 $homework = new homework();
 
-echo $homework->homeworkText();
+echo $homework->homeworkTextEdited();
