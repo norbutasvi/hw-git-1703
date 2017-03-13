@@ -8,7 +8,7 @@
 
 class homework {
 
-    public $text = "This is third.php - git-homework.";
+    public $text = "This is third.php - git-homework. - edited";
 
     public function homeworkText() {
         return $this->text;
